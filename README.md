@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, [I'm Alex](https://www.abeatbeyond.com) 👋
+A Full Stack Engineer working on Full Stack ideas with the Ethereum Blockchain.
 
-<!--
-**morandalex/morandalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🥚 I’m currently working as freelance on several projects 
+- 🌱 I’m perpetually learning
+- 💬 Ask me about:
+  - JavaScript
+  - React
+  - Nextjs
+  - Node
+  - Web 3
+  - Solidity
+  - Decentralization 
+  - Indie Hacking
+  - Community
+   📫 How to reach me: a.morandi.info@gmail.com - discord: morandalex#8733
 
-Here are some ideas to get you started:
+![Morandalex Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morandalex&layout=compact&&langs_count=10&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
